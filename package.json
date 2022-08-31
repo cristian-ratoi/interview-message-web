@@ -2,7 +2,6 @@
   "name": "interview-message-web",
   "version": "1.0.0",
   "description": "Interview Message Web",
-  "main": "index.js",
   "repository": "git@github-cristian-ratoi:cristian-ratoi/interview-message-web.git",
   "license": "MIT",
   "scripts": {
